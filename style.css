@@ -1,0 +1,54 @@
+h1{
+    color: rgb(158, 12, 12);
+    font-size: 40px;
+    margin: 30px;
+}
+h2{
+    background-color: rgba(0, 0, 0, 0.555);
+    color: red;
+    width: fit-content;
+    border-radius: 5px;
+}
+h3{
+    background-color: rgba(0, 0, 0, 0.541);
+    color: rgb(77, 218, 42);
+    width: fit-content;
+    border-radius: 5px;
+}
+h4{
+    line-height: 50px;
+}
+body{
+    line-height: 25px;
+    background-image: url(img/Kkc-1.jpg);
+    width: fit-content;
+    border-radius: 5px;
+    margin: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin: 20px;
+    text-align: justify;
+    width: fit-content;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.541);
+}
+}
+li{
+    color: royalblue;
+}
+.button{
+    margin: 20px;
+    line-height: 40px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: left;
+    font-size: 15px;
+}
+footer{
+    padding: 20px
+}
