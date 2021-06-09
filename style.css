@@ -24,6 +24,7 @@ body{
     width: fit-content;
     border-radius: 5px;
     margin: 20px;
+    background-repeat: no-repeat;
     background-size: 50%;
 }
 p{
